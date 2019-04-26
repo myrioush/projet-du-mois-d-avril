@@ -1,0 +1,107 @@
+#barre
+{
+ position: absolute;
+ font-size: 20px;
+ margin-left:25%;
+}
+#connecter
+{
+	width:40%;
+	height:40%;
+	background:url("../imagep/g.jpg");
+	color: #fff;
+	top:12%;
+	margin-left:27%;
+	position:fixed;
+	margin-right:5%;
+	
+}
+#connecter h3
+{
+	margin-left:30%;
+	margin-top: 5%;
+	font-size:20px;
+	color: black;
+}
+#inscription
+{
+	background:url("../imagep/g.jpg");
+	color: #fff;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 5%;
+	margin-bottom: 5%; 
+	
+}
+.form-group
+{
+	margin-top:3%;
+
+}
+#inscription label 
+{
+	color: black;
+}
+
+#inscription h2 
+{
+	color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+.rtext
+{
+	margin-top:10%;
+	margin-left:5%;
+	margin-right:5%;
+}
+.rtext h1
+{
+	text-align: center;
+}
+#propos
+{
+	margin-bottom: 20px;
+}
+
+footer
+{
+	height: 150px;
+	background:#755742;
+}
+footer .st
+{
+	text-align: center;
+}
+footer .contact
+{
+	text-align: center;
+	margin-bottom: 5px;
+}
+#dash
+{
+	margin-left:5%;
+	margin-top: 10%;
+	margin-right:5%;
+	width: 90%;
+
+}
+
+.lo
+{
+	background-color: gray;
+}
+#visite
+{
+	margin-left:20%;
+	margin-right:20%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	width:60%;
+	background-color: gray;
+	
+}
+#visite form-group
+{
+	margin-left: 10%;
+}
